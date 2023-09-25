@@ -1,6 +1,6 @@
 
 
-const Banner = () => {
+const Banner = ({handleSearchBtn}) => {
 
 
 
@@ -15,8 +15,8 @@ const Banner = () => {
                     <h1 className="mb-10 text-2xl text-center  md:text-5xl font-bold">I Grow By Helping People In Need</h1>    
                     <div className="">
                                 <div className="input-group flex justify-center items-center">
-                                    <input type="text" placeholder="Search…" className="input input-bordered border-r-0 w-full  max-w-md" />
-                                    <button className="btn border border-[#FF444A] rounded-l-none  bg-[#FF444A] ">Search</button>
+                                    <input id="input-field" type="text" placeholder="Search…" className="input input-bordered border-r-0 w-full  max-w-md" />
+                                    <button onClick={handleSearchBtn} className="btn border border-[#FF444A] rounded-l-none  bg-[#FF444A] ">Search</button>
                                 </div>
                       </div>
 
