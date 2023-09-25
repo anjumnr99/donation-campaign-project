@@ -5,12 +5,14 @@ const ShowCardDetails = ({ cardDetails }) => {
     const { id, image, title, description, price, buttonBackgroundColor } = cardDetails || {};
 
 
+
     const handleDonateBtn = () => {
         const allDonatedCards = [];
         const getItem = JSON.parse(localStorage.getItem('Cards'));
         if (!getItem) {
             allDonatedCards.push(cardDetails);
             localStorage.setItem('Cards', JSON.stringify(allDonatedCards));
+            swal("Successfully", "You hove donated", "success");
         } else {
             const isExists = getItem.find(item => item.id === id);
             if (isExists) {
@@ -18,6 +20,7 @@ const ShowCardDetails = ({ cardDetails }) => {
             } else {
                 allDonatedCards.push(...getItem, cardDetails);
                 localStorage.setItem('Cards', JSON.stringify(allDonatedCards));
+                swal("Successfully", "You hove donated", "success");
             }
 
         }
