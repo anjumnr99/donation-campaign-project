@@ -6,7 +6,7 @@ const Card = ({ card }) => {
     const { id, image, title, category, categoryBackgroundColor, cardBackgroundColor, textColor, buttonBackgroundColor, description, price } = card || {};
     return (
         <div>
-            <Link to={`/${id}`}>
+            <Link to={`/donation_details/${id}`}>
                 <div style={{ backgroundColor: `${cardBackgroundColor}` }} className="card  h-72  shadow-xl flex-col flex-shrink-1 ">
                     <figure className=" h-[70%]"><img className="w-full h-full" src={image} alt="Shoes" /></figure>
                     <div className="h-[30%] rounded-b-2xl pt-3 pl-3 pb-4">
