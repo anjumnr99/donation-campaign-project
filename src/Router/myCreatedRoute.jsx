@@ -1,4 +1,4 @@
-import { Route, createBrowserRouter } from "react-router-dom";
+import {  createBrowserRouter } from "react-router-dom";
 import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
@@ -38,6 +38,11 @@ const myCreatedRoute = createBrowserRouter([
             },
            
         ]
+
+    },
+    {
+        path:'/',
+        element:<Error></Error>
 
     }
 
