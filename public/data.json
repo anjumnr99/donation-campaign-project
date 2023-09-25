@@ -5,11 +5,11 @@
       "title": "Used Clothing Drive",
       "category": "Clothing",
       "categoryBackgroundColor": "#79c23f33",
-      "cardBackgroundColor": "#79c23f26",
+      "cardBackgroundColor": "#79c23f4d",
       "textColor": "#79C23F",
       "buttonBackgroundColor": "#79C23F",
       "description": "Clothing donation is a compassionate act of giving that helps individuals and families in need while promoting sustainability. This category encompasses the generous donation of gently used or new clothing items to organizations, charities, and shelters. By donating clothing, you contribute to the well-being and dignity of those facing hardship, ensuring they have access to essential garments for warmth, comfort, and self-esteem. Whether it's a warm winter coat, a pair of shoes, or everyday attire, your contributions can make a significant difference in the lives of others, fostering a sense of community and support for those less fortunate. Joining the clothing donation movement is a meaningful way to declutter your wardrobe, reduce waste, and extend a helping hand to those  who need it most.",
-      "price": "$199.99"
+      "price": "199.99"
     },
     {
       "id": 2,
@@ -17,11 +17,11 @@
       "title": "Good education",
       "category": "Education",
       "categoryBackgroundColor": "#ff444a33",
-      "cardBackgroundColor": "#ff444a26",
+      "cardBackgroundColor": "#ff444a2e",
       "textColor": "#FF444A",
       "buttonBackgroundColor": "#FF444A",
       "description": "Education donation is a powerful investment in the future, aimed at providing opportunities and knowledge to individuals and communities around the world. This category encompasses a wide range of contributions that support learning, from supplying school materials and resources to funding scholarships and educational programs. By donating to education, you become a catalyst for change, helping students of all ages access quality learning experiences, unlock their potential, and break the cycle of poverty. Your generosity can provide access to books, computers, classrooms, and teachers, ensuring that education is not a privilege but a fundamental right for all. Whether you're supporting local schools, international initiatives, or nonprofit organizations, your education donations have the power to shape brighter futures, empower individuals, and build a more educated and informed society. Together, we can create a world where knowledge knows no boundaries and where every mind can thrive.",
-      "price": "$49.99"
+      "price": "49.99"
     },
     {
       "id": 3,
@@ -33,7 +33,7 @@
       "textColor": "#0052FF",
       "buttonBackgroundColor": "#0052FF",
       "description": "Health donation is a compassionate commitment to improving the well-being and quality of life for individuals and communities facing health challenges. This category encompasses a wide spectrum of contributions, from funding medical research and providing essential healthcare supplies to supporting clinics, hospitals, and organizations dedicated to healthcare accessibility. By donating to health causes, you become a lifeline for those in need, offering hope, healing, and the chance for a healthier future. Your generosity can aid in the fight against diseases, promote wellness, and ensure that individuals receive critical medical care, medications, and treatments. Whether you're contributing to a local health clinic, a global health initiative, or a nonprofit focused on specific medical conditions, your health donations have the power to save lives, reduce suffering, and create a world where everyone has the opportunity to lead a healthier and more fulfilling life. Join the mission to make healthcare a universal right and foster a global culture of compassion and well-being.",
-      "price": "$149.99"
+      "price": "149.99"
     },
     {
       "id": 4,
@@ -41,11 +41,11 @@
      "title": "Used Clothing Drive",
       "category": "Clothing",
       "categoryBackgroundColor": "#79c23f33",
-      "cardBackgroundColor": "#79c23f26",
+      "cardBackgroundColor": "#79c23f4d",
       "textColor": "#79C23F",
       "buttonBackgroundColor": "#79C23F",
       "description": "Clothing donation is a compassionate act of giving that helps individuals and families in need while promoting sustainability. This category encompasses the generous donation of gently used or new clothing items to organizations, charities, and shelters. By donating clothing, you contribute to the well-being and dignity of those facing hardship, ensuring they have access to essential garments for warmth, comfort, and self-esteem. Whether it's a warm winter coat, a pair of shoes, or everyday attire, your contributions can make a significant difference in the lives of others, fostering a sense of community and support for those less fortunate. Joining the clothing donation movement is a meaningful way to declutter your wardrobe, reduce waste, and extend a helping hand to those  who need it most.",
-      "price": "$299.99"
+      "price": "299.99"
     },
     {
       "id": 5,
@@ -57,7 +57,7 @@
       "textColor": "#F87147",
       "buttonBackgroundColor": "#F87147",
       "description": "Food donation is a noble act of kindness that addresses the fundamental need for sustenance and nourishment. This category encompasses the generous giving of food items to individuals, families, and organizations that face hunger and food insecurity. By donating food, you play a vital role in alleviating hunger and promoting food access for those in need. Your contributions can range from non-perishable goods to fresh produce, ensuring that no one goes to bed hungry. Food donations not only provide immediate relief but also contribute to long-term food security and the reduction of food waste. Whether you're supporting local food banks, community kitchens, or international hunger relief organizations, your donations make a tangible difference in the lives of others. Join the fight against hunger, and together, we can build a world where everyone has access to nutritious meals and the hope of a brighter future.",
-      "price": "$79.99"
+      "price": "79.99"
     },
     {
       "id": 6,
@@ -65,11 +65,11 @@
      "title": "Good education",
       "category": "Education",
       "categoryBackgroundColor": "#ff444a33",
-      "cardBackgroundColor": "#ff444a26",
+      "cardBackgroundColor": "#ff444a2e",
       "textColor": "#FF444A",
       "buttonBackgroundColor": "#FF444A",
       "description": "Education donation is a powerful investment in the future, aimed at providing opportunities and knowledge to individuals and communities around the world. This category encompasses a wide range of contributions that support learning, from supplying school materials and resources to funding scholarships and educational programs. By donating to education, you become a catalyst for change, helping students of all ages access quality learning experiences, unlock their potential, and break the cycle of poverty. Your generosity can provide access to books, computers, classrooms, and teachers, ensuring that education is not a privilege but a fundamental right for all. Whether you're supporting local schools, international initiatives, or nonprofit organizations, your education donations have the power to shape brighter futures, empower individuals, and build a more educated and informed society. Together, we can create a world where knowledge knows no boundaries and where every mind can thrive.",
-      "price": "$199.99"
+      "price": "199.99"
     },
     {
       "id": 7,
@@ -81,7 +81,7 @@
       "textColor": "#0052FF",
       "buttonBackgroundColor": "#0052FF",
       "description": "Health donation is a compassionate commitment to improving the well-being and quality of life for individuals and communities facing health challenges. This category encompasses a wide spectrum of contributions, from funding medical research and providing essential healthcare supplies to supporting clinics, hospitals, and organizations dedicated to healthcare accessibility. By donating to health causes, you become a lifeline for those in need, offering hope, healing, and the chance for a healthier future. Your generosity can aid in the fight against diseases, promote wellness, and ensure that individuals receive critical medical care, medications, and treatments. Whether you're contributing to a local health clinic, a global health initiative, or a nonprofit focused on specific medical conditions, your health donations have the power to save lives, reduce suffering, and create a world where everyone has the opportunity to lead a healthier and more fulfilling life. Join the mission to make healthcare a universal right and foster a global culture of compassion and well-being.",
-      "price": "$249.99"
+      "price": "249.99"
     },
     {
       "id": 8,
@@ -93,7 +93,7 @@
       "textColor": "#F87147",
       "buttonBackgroundColor": "#F87147",
       "description": "Food donation is a noble act of kindness that addresses the fundamental need for sustenance and nourishment. This category encompasses the generous giving of food items to individuals, families, and organizations that face hunger and food insecurity. By donating food, you play a vital role in alleviating hunger and promoting food access for those in need. Your contributions can range from non-perishable goods to fresh produce, ensuring that no one goes to bed hungry. Food donations not only provide immediate relief but also contribute to long-term food security and the reduction of food waste. Whether you're supporting local food banks, community kitchens, or international hunger relief organizations, your donations make a tangible difference in the lives of others. Join the fight against hunger, and together, we can build a world where everyone has access to nutritious meals and the hope of a brighter future.",
-      "price": "$59.99"
+      "price": "59.99"
     },
     {
       "id": 9,
@@ -105,7 +105,7 @@
       "textColor": "#0052FF",
       "buttonBackgroundColor": "#0052FF",
       "description": "Health donation is a compassionate commitment to improving the well-being and quality of life for individuals and communities facing health challenges. This category encompasses a wide spectrum of contributions, from funding medical research and providing essential healthcare supplies to supporting clinics, hospitals, and organizations dedicated to healthcare accessibility. By donating to health causes, you become a lifeline for those in need, offering hope, healing, and the chance for a healthier future. Your generosity can aid in the fight against diseases, promote wellness, and ensure that individuals receive critical medical care, medications, and treatments. Whether you're contributing to a local health clinic, a global health initiative, or a nonprofit focused on specific medical conditions, your health donations have the power to save lives, reduce suffering, and create a world where everyone has the opportunity to lead a healthier and more fulfilling life. Join the mission to make healthcare a universal right and foster a global culture of compassion and well-being.",
-      "price": "$119.99"
+      "price": "119.99"
     },
     {
       "id": 10,
@@ -113,11 +113,11 @@
        "title": "Good education",
       "category": "Education",
       "categoryBackgroundColor": "#ff444a33",
-      "cardBackgroundColor": "#ff444a26",
+      "cardBackgroundColor": "#ff444a2e",
       "textColor": "#FF444A",
       "buttonBackgroundColor": "#FF444A",
       "description": "Education donation is a powerful investment in the future, aimed at providing opportunities and knowledge to individuals and communities around the world. This category encompasses a wide range of contributions that support learning, from supplying school materials and resources to funding scholarships and educational programs. By donating to education, you become a catalyst for change, helping students of all ages access quality learning experiences, unlock their potential, and break the cycle of poverty. Your generosity can provide access to books, computers, classrooms, and teachers, ensuring that education is not a privilege but a fundamental right for all. Whether you're supporting local schools, international initiatives, or nonprofit organizations, your education donations have the power to shape brighter futures, empower individuals, and build a more educated and informed society. Together, we can create a world where knowledge knows no boundaries and where every mind can thrive.",
-      "price": "$199.99"
+      "price": "199.99"
     },
     {
       "id": 11,
@@ -129,7 +129,7 @@
       "textColor": "#F87147",
       "buttonBackgroundColor": "#F87147",
       "description": "Food donation is a noble act of kindness that addresses the fundamental need for sustenance and nourishment. This category encompasses the generous giving of food items to individuals, families, and organizations that face hunger and food insecurity. By donating food, you play a vital role in alleviating hunger and promoting food access for those in need. Your contributions can range from non-perishable goods to fresh produce, ensuring that no one goes to bed hungry. Food donations not only provide immediate relief but also contribute to long-term food security and the reduction of food waste. Whether you're supporting local food banks, community kitchens, or international hunger relief organizations, your donations make a tangible difference in the lives of others. Join the fight against hunger, and together, we can build a world where everyone has access to nutritious meals and the hope of a brighter future.",
-      "price": "$39.99"
+      "price": "39.99"
     },
     {
       "id": 12,
@@ -137,11 +137,11 @@
      "title": "Used Clothing Drive",
       "category": "Clothing",
       "categoryBackgroundColor": "#79c23f33",
-      "cardBackgroundColor": "#79c23f26",
+      "cardBackgroundColor": "#79c23f4d",
       "textColor": "#79C23F",
       "buttonBackgroundColor": "#79C23F",
       "description": "Clothing donation is a compassionate act of giving that helps individuals and families in need while promoting sustainability. This category encompasses the generous donation of gently used or new clothing items to organizations, charities, and shelters. By donating clothing, you contribute to the well-being and dignity of those facing hardship, ensuring they have access to essential garments for warmth, comfort, and self-esteem. Whether it's a warm winter coat, a pair of shoes, or everyday attire, your contributions can make a significant difference in the lives of others, fostering a sense of community and support for those less fortunate. Joining the clothing donation movement is a meaningful way to declutter your wardrobe, reduce waste, and extend a helping hand to those  who need it most.",
-      "price": "$179.99"
+      "price": "179.99"
     }
   ]
   
